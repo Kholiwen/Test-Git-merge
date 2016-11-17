@@ -1,2 +1,6 @@
 This is my first file
+<<<<<<< HEAD
 2
+=======
+1
+>>>>>>> origin/master
